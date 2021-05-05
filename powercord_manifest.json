@@ -1,0 +1,8 @@
+{
+  "name": "Nightly", 
+  "description": "Dark theme, inspired by the terminal.",
+  "version": "1",
+  "author": "Windows",
+  "theme": "nightly.css",
+  "license": "MIT"
+}
